@@ -28,7 +28,7 @@ namespace Tyuiu.PetrovDR.Sprint3.Task3.V15.Lib
 
                 }
             }
-            return min;
+            return min - 1;
         }
     }
 }
